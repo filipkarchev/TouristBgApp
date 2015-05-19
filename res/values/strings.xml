@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TouristBg</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="navigate">
+        <item>Профил</item>
+        <item>Области на България</item>
+        <item>Търсене</item>
+        <item>Карта</item>
+        <item>Настройки</item>
+    </string-array>
+
+    <!-- Profile Fragment -->
+    <string name="name_str">Име :</string>
+    <string name="anonymous_user_str">Анонимен Потребител</string>
+    <string name="visited_places_str">Посетени Места</string>
+
+    <!-- Places Fragment -->
+    <string name="working_time">Работно Време</string>
+    <string name="default_working_time">00:00</string>
+    <string name="ticket_price">Цена на билета</string>
+    <string name="default_ticket_price">0.00 лв</string>
+    <string name="telephone_number">Телефон</string>
+    <string name="default_telephone_number">-------</string>
+    <string name="information">Информация</string>
+    <string name="visited">Посетено</string>
+    <string name="title_activity_places">Places</string>
+    <string name="title_activity_picture">PictureActivity</string>
+    <string name="save">Запази</string>
+
+</resources>
